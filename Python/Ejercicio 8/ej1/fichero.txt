@@ -1,0 +1,13 @@
+Vamos a escribir en este fichero unos numeros
+0
+1
+2
+3
+4
+Continuamos con la enumeracion
+5
+6
+7
+8
+9
+10
