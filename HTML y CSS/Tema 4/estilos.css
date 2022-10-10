@@ -1,0 +1,17 @@
+html {
+    font: sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 40px;
+    font-style: bold;
+}
+
+#elemento-1 {
+    color: red;
+}
+
+ul #elemento-1 {
+    font-size: 2rem;
+}
