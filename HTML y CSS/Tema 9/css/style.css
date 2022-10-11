@@ -1,0 +1,30 @@
+
+.contenedor {
+    min-height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-modern {
+    padding: auto;
+    width: 10vw;
+    height: 10vh;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    font-size: 120%;
+}
+
+.btn-modern:hover {
+    background-color: rgb(67, 67, 67);
+    transform: translateY(-5px);
+    transition: all 400ms;
+    color: rgb(185, 72, 72);
+    box-shadow: 10px 5px 5px rgb(185, 72, 72);
+}
+
