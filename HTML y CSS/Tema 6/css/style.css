@@ -1,0 +1,19 @@
+.contenedor-boton {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedor-boton button ::before{
+    content: 'Pasa por encima';
+}
+
+.contenedor-boton :hover {
+    color: white;
+    background-color: green;
+}
+
+.contenedor-boton :focus ::before {
+    content: 'Hecho!';
+}
