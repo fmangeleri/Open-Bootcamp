@@ -1,0 +1,3 @@
+{"level":"error","message":"Este es un error de nivel error","service":"user-service"}
+{"level":"error","message":"!!ERROR!! TypeError: Math.metodoQueNoExiste is not a function","service":"user-service"}
+{"level":"error","message":"!!ERROR!!","service":"user-service"}
